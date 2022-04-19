@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## LinkedIn
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/axelhojmark/)
+[<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/axelhojmark/)
 
 <!--
 **hojmax/hojmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
