@@ -7,7 +7,7 @@ Hi 👋. I'm a Machine learning and datascience student from Copenhagen with a p
 
 **Tags**: Javascript, Node.js, Express, JWT, SQL Server
 
-#### [📦 Point Packing](https://github.com/hojmax/point_packing_python_c)
+#### [📦 Point Packing](https://github.com/hojmax/Point-Packing)
 **Tags**: Python, C, OpenMP, PyGame, Gradient Descent, Interactive
 
 #### [🤖 Tetris Bot](https://github.com/hojmax/tetrisBot-2.0)
