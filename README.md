@@ -10,7 +10,7 @@ Hi 👋. I'm a Machine learning and datascience student from Copenhagen with a p
 #### [📦 Point Packing](https://github.com/hojmax/Point-Packing)
 **Tags**: Python, C, OpenMP, PyGame, Gradient Descent, Interactive
 
-#### [🤖 Tetris Bot](https://github.com/hojmax/tetrisBot-2.0)
+#### [🤖 Tetris Bot](https://github.com/hojmax/Tetris-Bot)
 **Tags**: Javascript, Interactive
 
 
