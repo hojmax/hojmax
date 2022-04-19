@@ -14,7 +14,7 @@ Hi 👋. I'm a Machine learning and datascience student from Copenhagen with a p
 **Tags**: Javascript, Interactive
 
 
-#### [🦾 Inverse Kinematics Visualization](https://github.com/hojmax/kinematic_vis)
+#### [🦾 Inverse Kinematics](https://github.com/hojmax/kinematic_vis)
 **Tags**: Javascript, Visualization, Gradient Descent, Interactive
 
 ## LinkedIn
