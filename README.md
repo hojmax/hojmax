@@ -1,6 +1,6 @@
 # Axel Højmark
 
-Hi 👋. I'm a Machine learning and datascience student from Copenhagen with a passion for web development. I am highly proficient in Python, Javascript, SQL, HTML and CSS. 
+Hi 👋. I'm a Machine learning and datascience student from Copenhagen with a passion for web development. I am highly proficient in Python, Javascript, React, SQL, HTML and CSS. 
 
 ## My favourite projects
 #### [🔐 Express API](https://github.com/hojmax/ExpressAPI)
