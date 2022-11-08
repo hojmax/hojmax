@@ -24,4 +24,6 @@ Hi 👋. I'm a Machine learning and datascience student from Copenhagen with a p
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 📬 Contact
-Lets link up! [![google.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelhojmark/)
+[![google.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelhojmark/)
+
+Lets link up! ☝️
