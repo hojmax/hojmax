@@ -6,6 +6,8 @@ Hi 👋. I'm a Machine learning and datascience student at UCPH with a passion f
 
 #### [🤖 Robot Robbers - Winning Solution DM in AI 2022](https://github.com/hojmax/Robot-Robbers-DM-AI-2022)
 
+#### [💬 Advanced Topics in NLP Final Project](https://github.com/hojmax/ATNLP)
+
 #### [🚢 Reinforcement Learning for the Multi-port Stowage Problem](https://github.com/hojmax/rl-mpsp)
 
 #### [🦾 Inverse Kinematic Visualization](https://github.com/hojmax/kinematic_vis)
