@@ -1,6 +1,6 @@
 # Axel Højmark
 
-Hi 👋. I'm a Machine learning and datascience student at UCPH with a passion for AI and web development.
+Hi 👋. I'm a Machine learning and datascience student at UCPH with a passion for AI.
 
 ## 🏆 My Favourite Projects
 
