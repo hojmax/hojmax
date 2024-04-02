@@ -4,19 +4,17 @@ Hi 👋. I'm a Machine learning and datascience student at UCPH with a passion f
 
 ## 🏆 My Favourite Projects
 
-#### [🤖 Robot Robbers - Winning Solution DM in AI 2022](https://github.com/hojmax/Robot-Robbers-DM-AI-2022)
+#### [📦 MPSP RL Env](https://github.com/hojmax/MPSPEnv)
 
 #### [💬 Advanced Topics in NLP Final Project](https://github.com/hojmax/ATNLP)
+
+#### [🤖 Robot Robbers - Winning Solution DM in AI 2022](https://github.com/hojmax/Robot-Robbers-DM-AI-2022)
 
 #### [🚢 Reinforcement Learning for the Multi-port Stowage Problem](https://github.com/hojmax/MPSPEnv)
 
 #### [🦾 Inverse Kinematic Visualization](https://github.com/hojmax/kinematic_vis)
 
-#### [📦 Point Packing](https://github.com/hojmax/Point-Packing)
-
 #### [🧩 Tetris Bot](https://github.com/hojmax/Tetris-Bot)
-
-#### [🔐 Express API](https://github.com/hojmax/ExpressAPI)
 
 ## 🛠️ Some Tools I Use
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
