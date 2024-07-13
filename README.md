@@ -28,6 +28,5 @@ Hi 👋. I'm an AI Safety Research Scholar and a MSc Student in Computer Science
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📬 Contact
-Lets link up!
 
 [![google.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelhojmark/)
