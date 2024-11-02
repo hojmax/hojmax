@@ -1,6 +1,6 @@
 # Axel Højmark
 
-Hi 👋. I do evals for scheming and deception in AI systems @ Apollo Research
+Hi 👋. I do evals for scheming and deception in AI systems @ [Apollo Research](https://www.apolloresearch.ai)
 
 ## 🎨 Personal Projects
 
