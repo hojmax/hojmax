@@ -1,8 +1,8 @@
 # Axel Højmark
 
-I do evals for scheming and deception in AI systems @ Apollo Research
+Hi 👋. I do evals for scheming and deception in AI systems @ Apollo Research
 
-## 🏆 Favourite Projects
+## 🎨 Personal Projects
 
 #### [🦾 Inverse Kinematic Visualization](https://github.com/hojmax/kinematic_vis)
 
