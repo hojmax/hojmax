@@ -2,7 +2,7 @@
 
 Hi 👋. I do evals for scheming and deception in AI systems at [Apollo Research](https://www.apolloresearch.ai).
 
-## 🎨 Personal Projects
+## 🎨 Favourite Personal Projects
 
 #### [🦾 Inverse Kinematic Visualization](https://github.com/hojmax/kinematic_vis)
 
