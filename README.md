@@ -1,6 +1,6 @@
 # Axel Højmark
 
-Hi! I study AI scheming and deception at [Apollo Research](https://www.apolloresearch.ai).
+Hi! I research AI scheming and deception at [Apollo Research](https://www.apolloresearch.ai).
 
 ## Fun Personal Projects
 
